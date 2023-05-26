@@ -1,0 +1,65 @@
+1.Faça uma relação do documentário com a disciplina:
+
+No documentário, é evidenciado como as redes sociais e plataformas digitais são projetadas para criar dependência e estimular o usuário a permanecer conectado. Esse fenômeno está diretamente relacionado com o design de interação, no qual técnicas são aplicadas com o intuito de incentivar o uso repetitivo desses aplicativos.
+2.Qual a importância do documentário em relação a usabilidade? E qual a preocupação se deve ter dentro dos padrões éticos?
+
+
+O documentário destaca a utilização de dados pessoais por gigantes da tecnologia para personalizar anúncios aos usuários, o que pode fazê-los sentir "explorados". Ele ressalta a necessidade de considerações éticas e práticas de design centradas no usuário na produção e desenvolvimento de mídia digital para garantir uma experiência positiva dos usuários. As plataformas usam: conteúdo personalizado e design de interação bom, para manter os usuários na plataforma por mais tempo, mas é importante considerar a ética e o bem-estar do usuário.
+3.o que você acha da monetização das redes sociais e o fato de "você ser o produto"?
+
+Essa expressão "Você é o produto" é que as plataformas digitais de hoje utilizam os usuários como meio de gerar lucro através de publicidades, anúncios e outras práticas similares. Na minha opinião, este modelo de negócio não é saudável, já que as empresas rentabilizam os usuários sem considerar seus interesses, agindo de maneira irresponsável e contribuindo para a dependência de suas plataformas.
+4.Você acha que a usabilidade pode ser desconsiderada por causa do documentário? Justifique sua resposta.
+
+O documentário vai abordar questões éticas, vício e outros temas, mas não desconsidera a importância da usabilidade. Na verdade, uma boa usabilidade é uma das maiores preocupações para garantir um bom funcionamento para o usuário.
+5.Quais as indústrias tecnológicas relatadas no documentário? E como vc imagina que são tratados os dados coletados por elas?
+
+O documentário destaca o uso de dados pessoais por gigantes da tecnologia como Google, Instagram, Twitter e Youtube para personalizar anúncios para usuários. Essa prática levou os usuários a se sentirem explorados por essas empresas que lucram com seus dados pessoais. O filme enfatiza a necessidade de considerações éticas na produção e desenvolvimento de mídias digitais, bem como práticas de design centradas no usuário para garantir uma experiência positiva para o usuário.
+6.Como as indústrias da tecnologia estão atraindo e retendo os seus usuários?
+
+As plataformas utilizam técnicas atrativas, como personalização de conteúdo e design de interação bem feito, para manter os usuários na plataforma por mais tempo. Isso pode criar um ciclo viciante e exploratório, mas é importante considerar a ética e o bem-estar do usuário para garantir uma experiência positiva.
+7.Você acha que é manipulado pelas redes sociais?
+
+Sim, as plataformas digitais nos prendem por meio de técnicas atraentes, como a personalização de conteúdo e o design de interação viciante, que nos envolvem e nos incentivam a passar mais tempo nelas.
+
+
+8.O que vc acha da tecnologia pervasiva/ubíqua na construção do front-end e como poderia ser modificada para que seus usuários tenham melhor proveito sem ser manipular 
+
+Insira sua resposta
+9.Faça um link entre a disciplina e o documentário abordando o conteúdo estudado ate então, inclusive os trabalhos apresentados.
+
+Insira sua resposta
+10.Crie 5 questões de múltipla escolha  com 4 respostas sobre o documentário e sua relação com a disciplina?
+
+Qual é o principal problema abordado no documentário "O Dilema das Redes"?
+a) O impacto ambiental da tecnologia
+b) O vício em redes sociais
+c) O uso de dados pessoais por gigantes da tecnologia - Resposta
+d) A falta de segurança online
+
+
+Por que as empresas de tecnologia usam técnicas atraentes e personalizadas?
+a) Para aumentar o engajamento do usuário - Resposta
+b) Para proteger a privacidade do usuário
+c) Para reduzir o tempo que os usuários passam nas plataformas
+d) Para evitar que os usuários vejam notícias falsas
+
+
+Como as empresas de tecnologia ganham dinheiro?
+a) Vendendo produtos físicos
+b) Oferecendo serviços de assinatura
+c) Vendendo anúncios personalizados - Resposta
+d) Cobrando dos usuários pelo uso da plataforma
+
+
+Quais são as possíveis consequências do uso excessivo das redes sociais?
+a) Aumento da produtividade
+b) Isolamento social e problemas de saúde mental - Resposta
+c) Maior interação cara a cara
+d) Melhoria da autoestima e autoconfiança
+
+
+Qual é a principal mensagem do documentário "O Dilema das Redes"?
+a) As redes sociais são boas para a sociedade
+b) As empresas de tecnologia não precisam ser regulamentadas
+c) As empresas de tecnologia devem ser mais transparentes sobre como usam os dados dos usuários
+d) As empresas de tecnologia precisam ser mais éticas em suas práticas - Resposta
